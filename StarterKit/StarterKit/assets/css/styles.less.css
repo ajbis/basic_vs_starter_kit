@@ -1,0 +1,16 @@
+﻿@import "elements.less";
+@import "normalize.less";
+@import "html5.less";
+@import "main.less";
+@import "print.less";
+
+@bgColor: #666;
+
+body {
+    background: @bgColor;
+}
+
+p {
+    background: #999;
+    .rounded(10px);
+}

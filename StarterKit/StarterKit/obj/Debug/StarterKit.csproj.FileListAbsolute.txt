@@ -1,0 +1,6 @@
+C:\Users\AlanBrown\Developer\Projects\StarterKit\StarterKit\StarterKit\bin\StarterKit.dll
+C:\Users\AlanBrown\Developer\Projects\StarterKit\StarterKit\StarterKit\bin\StarterKit.pdb
+C:\Users\AlanBrown\Developer\Projects\StarterKit\StarterKit\StarterKit\bin\dotless.Core.dll
+C:\Users\AlanBrown\Developer\Projects\StarterKit\StarterKit\StarterKit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AlanBrown\Developer\Projects\StarterKit\StarterKit\StarterKit\obj\Debug\StarterKit.dll
+C:\Users\AlanBrown\Developer\Projects\StarterKit\StarterKit\StarterKit\obj\Debug\StarterKit.pdb
